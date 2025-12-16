@@ -1,8 +1,8 @@
 # 🎨 Profile Card | Frontend Club
 
-![](/assets/images/screenshot.png)
-
 Proyecto introductorio para aprender **HTML y CSS desde cero**, creando una tarjeta de presentación real y bien estructurada.
+
+![](/assets/images/screenshot.png)
 
 Está diseñado para estudiantes principiantes y se enfoca en la práctica, el orden del código y buenas prácticas usadas en el desarrollo frontend actual.
 
